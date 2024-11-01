@@ -30,3 +30,6 @@ In this project, we will address several research questions (RQs) related to the
 This analysis aims to uncover important patterns in the dataset, informing development strategies and enhancing player experiences in the gaming community.
 
 For detailed analysis and findings, please refer to the HW_2_GROUP2.ipynb file.
+
+![68747470733a2f2f6d6d6f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30372f737465616d2d6c6f676f2d77656c636f6d652d62616e6e65722e6a7067](https://github.com/user-attachments/assets/763c04e4-81fe-4d51-b47f-953d33fc6e4b)
+
