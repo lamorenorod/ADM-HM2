@@ -1,8 +1,8 @@
 # ADM-HM2 - Group #2
 
-Asia Montico
-Kazial Pranto
-Mutjaba Abbasi
-Laura Moreno
+* Asia Montico
+* Kazial Pranto
+* Mutjaba Abbasi
+* Laura Moreno
 
 https://camo.githubusercontent.com/d2f0878f0c257acc6c4278e3c3b5842398792cb55f23199189362ab40b13ae6c/68747470733a2f2f6d6d6f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30372f737465616d2d6c6f676f2d77656c636f6d652d62616e6e65722e6a7067
