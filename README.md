@@ -1,9 +1,9 @@
 # ADM-HM2 - Group #2
 
 * Asia Montico
-* Kazial Pranto
-* Mutjaba Abbasi
-* Laura Moreno
+* Kazi Al Refat Pranta - 2083810
+* Ghulam Mujtaba  - 
+* Laura Moreno - 2187193
 
 # Analysis of Video Game Reviews Dataset
 
