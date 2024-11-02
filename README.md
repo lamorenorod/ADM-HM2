@@ -31,7 +31,7 @@ This analysis aims to uncover important patterns in the dataset, informing devel
 
 ## Awareness tips
 
-1. Dowload the the data base, in this link: https://www.kaggle.com/datasets/najzeko/steam-reviews-2021
+1. Dowload the data base, in this link: https://www.kaggle.com/datasets/najzeko/steam-reviews-2021
 2. Download our detailed analysis and findings, on the HW_2_GROUP2.ipynb file.
 
 * **We were not able to submit the data base, since its 8 GB, so thats why wwe recommend to download the files to read them**
