@@ -34,7 +34,7 @@ This analysis aims to uncover important patterns in the dataset, informing devel
 1. Dowload the data base, in this link: https://www.kaggle.com/datasets/najzeko/steam-reviews-2021
 2. Download our detailed analysis and findings, on the HW_2_GROUP2.ipynb file.
 
-* **We were not able to submit the data base, since its 8 GB, so thats why wwe recommend to download the files to read them**
+* **Since the database is 8 GB, it's recommended to download the files for reading, as GitHub does not allow files of that size to be submitted**
 
 ![68747470733a2f2f6d6d6f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30372f737465616d2d6c6f676f2d77656c636f6d652d62616e6e65722e6a7067](https://github.com/user-attachments/assets/763c04e4-81fe-4d51-b47f-953d33fc6e4b)
 
