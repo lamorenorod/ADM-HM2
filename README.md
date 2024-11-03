@@ -2,7 +2,7 @@
 
 * Asia Montico -1966494 
 * Kazi Al Refat Pranta - 2083810
-* Ghulam Mujtaba  
+* Ghulam Mujtaba  - 2184696
 * Laura Moreno - 2187193
 
 # Analysis of Video Game Reviews Dataset
@@ -14,7 +14,7 @@ Video games have become a significant form of entertainment, influencing both ch
 As data scientists, our mission is to analyze the pool of game reviews on Steam. Each entry in our dataset corresponds to a unique player-game interaction, offering insights into user experiences.
 
 ## Objectives
-In this project, we will address several research questions (RQs) related to the dataset. These questions will be explored and answered in the HW_2_GROUP2.ipynb file:
+In this project, we will address several research questions (RQs) related to the dataset. These questions will be explored and answered in the [main.ipynb] file:
 
 * [RQ1] Exploratory Data Analysis (EDA): Understand the dataset's structure and key features.
 * [RQ2] Review Distribution: Analyze the distribution of reviews, identify top applications, and examine user recommendations.
@@ -32,7 +32,7 @@ This analysis aims to uncover important patterns in the dataset, informing devel
 ## Awareness tips
 
 1. Dowload the data base, in this link: https://www.kaggle.com/datasets/najzeko/steam-reviews-2021
-2. Download our detailed analysis and findings, on the HW_2_GROUP2.ipynb file.
+2. Download our detailed analysis and findings, on the [main.ipynb] file.
 
 * **Since the database is 8 GB, it's recommended to download the files for reading, as GitHub does not allow files of that size to be submitted**
 
